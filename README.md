@@ -1,0 +1,5 @@
+- 👋 Hi, I’m JetZ0
+- 👀 I’m interested in Software & Engineering developing
+- 🌱 I’m currently learning Code C & C++
+- 💞️ I’m looking to collaborate on little projects, for learn and try to invest in them.
+- 📫 How to reach me: @z4user_ in Twitter
